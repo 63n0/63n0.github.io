@@ -1,6 +1,6 @@
 baseURL = 'https://63n0.github.io/'
 languageCode = 'ja-jp'
-title = '63n0 のブログ'
+title = '63n0'
 # theme = 'ananke'
 theme = 'm10c'
 favicon = "/favicon.ico"
