@@ -1,0 +1,6 @@
+<nav class="navbar navbar-expand-md sticky-top bg-body-tertiary">
+	<div class="container-fluid">
+		<a class="navbar-brand" href="{{ .Site.Home.Permalink }}">{{ .Site.Title }}</a>
+		{{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+	</div>
+</nav>
