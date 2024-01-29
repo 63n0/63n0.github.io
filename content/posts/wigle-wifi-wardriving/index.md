@@ -16,7 +16,7 @@ WiGLE.netは[WiGLE WiFi Wardriving](https://wigle.net/tools)と呼ばれるAndro
 ### ウォードライビングとは
 ウォードライビング(Wardriving)とは、移動中の乗り物から無線LANアクセスポイントを探す行為のことである。車に限らず"Wardriving"の表現を使うようだが、その移動手段によって、warbiking, warrailing, warwalkingなどのように別の表現を用いることもあるようである[\[2\]](https://en.wikipedia.org/wiki/Wardriving)。
 
-## WiGLE WiFi Wardrivingによるウォードライビング
+## WiGLE WiFi Wardriving
 ---
 WiGLE WiFI Wardrivingの使い方について、簡単に説明する。
 ### インストール
